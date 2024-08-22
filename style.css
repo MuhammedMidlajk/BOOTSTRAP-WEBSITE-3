@@ -1,0 +1,124 @@
+*{
+
+    padding: 0%;
+    margin: 0%;
+}
+
+.bgmain{
+    
+    width: 100%;
+    height: auto;
+    background-image: url(./img/porsche4.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* filter: brightness(100%);
+    box-shadow: 0px 0px 900px inset black; */
+    /* position: fixed; */
+}
+.navcolor ul {
+
+    margin-left: -38px;
+}
+.Contact{
+
+    margin-left:300px;
+   
+}
+.Contact2 button{
+
+    margin-left: 30px;
+    width: 120px;
+    height: 35px;
+    border-radius: 25px;
+    color: white;
+    background-color:transparent;
+    border: solid .1px;
+}
+.white a{
+
+    color: white;
+    margin-top: 10px;
+    
+    
+}
+
+.porsch img{
+
+    margin-left: 300px;
+    width: 400px;
+    margin-top: -10px;
+    
+    
+}
+.navbar{
+
+    border-bottom:solid 2px;
+    color:lightgray;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.headtext h1{
+
+     color:white;
+     font-size:110px;
+     margin-left: 50px;
+     margin-top: 20px;
+}
+
+.textsecond h3{
+
+    margin-top: 350px;
+    color: white;
+    margin-left: 50px;
+    font-weight: lighter;
+}
+.tex3{
+
+    display: flex;
+    justify-content: end;
+    border-bottom: solid 2px gray;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 70px;
+}
+.tex3 h1{
+
+    color: white;
+    text-align: right;
+    margin-top: -190px;
+    margin-right: 20px;
+    
+}
+.final{
+
+    color: white;
+    margin-left: 50px;
+    margin-top: 30px;
+}   
+.last{
+
+    color: white;
+    display: flex;
+    margin-left: 550px;
+    margin-top: -40px;
+}
+.last span{
+    color: gray;
+    font-size: larger;
+}
+.butn{
+
+    display: flex;
+    justify-content: end;
+}
+.butn button{
+
+    margin-top: -70PX;
+    margin-right: 50PX;
+    width: 200PX;
+    height: 50PX;
+    border-radius: 25px;
+    color: white;
+    background-color:transparent;
+    border: solid .1px;
+}
